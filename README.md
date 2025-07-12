@@ -1,3 +1,3 @@
-# Dynamic-Shopping-List
+# Javascript Mini Projects
 
-Made a Dynamic Shopping list while learning DOM Manipulation.
+Simple mini projects made in javascript
